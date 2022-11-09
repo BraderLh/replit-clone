@@ -8,7 +8,7 @@ For making a frontend container just run these comands in your command line:
 
 1. Find and change your application and Docker file path using command line (Windows/Linux or Mac): 
 > `$ cd \path\to\app`
-2.  Make sure Docker and source files exits navigatin usind *cd* or *dir*.
+2.  Make sure Docker and source files exists, you can use navigation commands like *cd* or *dir* on the console.
 3. Then exectute these commands:
 >`$ docker build -t <docker-image-name> .`
 
